@@ -1,4 +1,4 @@
-package org.example;
+package donglinrong.example;
 
 /**
  * 用户接口统计，模拟注册和登录

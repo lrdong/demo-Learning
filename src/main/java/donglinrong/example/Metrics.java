@@ -1,4 +1,4 @@
-package org.example;
+package donglinrong.example;
 
 import com.google.gson.Gson;
 
